@@ -1,0 +1,17 @@
+{
+  "name": "Simple Kennel",
+  "short_name": "Kennel",
+  "description": "Kennel management for small boarding businesses: schedule, customers, vaccinations, invoices.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF6F1",
+  "theme_color": "#7B5EA7",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
